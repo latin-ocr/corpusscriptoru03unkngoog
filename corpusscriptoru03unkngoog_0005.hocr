@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru03unkngoog/corpusscriptoru03unkngoog_0005.png"; bbox 0 0 3017 4892; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 81 275 1183 438">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 81 275 1183 438">
+     <span class='ocr_line' id='line_1_1' title="bbox 81 275 1183 438; baseline -0.005 -19"><span class='ocrx_word' id='word_1_1' title='bbox 81 275 534 438; x_wconf 81' lang='lat' dir='ltr'><strong>NICETAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 600 275 1183 419; x_wconf 83' lang='lat' dir='ltr'><strong>CHONIATAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 374 719 910 831">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 374 719 910 831">
+     <span class='ocr_line' id='line_1_2' title="bbox 374 719 910 831; baseline -0.002 0"><span class='ocrx_word' id='word_1_3' title='bbox 374 719 910 831; x_wconf 86' lang='lat' dir='ltr'><strong>HISTORIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 209 1707 1071 1808">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 209 1707 1071 1808">
+     <span class='ocr_line' id='line_1_3' title="bbox 209 1707 1071 1808; baseline -0.008 1"><span class='ocrx_word' id='word_1_4' title='bbox 209 1707 702 1808; x_wconf 85' lang='lat' dir='ltr'><strong>IMMANUELIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 731 1707 1071 1804; x_wconf 87' lang='lat' dir='ltr'><strong>BEKKERI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 290 3753 1010 4049">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 290 3753 1010 4049">
+     <span class='ocr_line' id='line_1_4' title="bbox 532 3753 784 3877; baseline 0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 532 3753 784 3877; x_wconf 64' lang='grc' dir='ltr'><strong>ΒοΝΝΑΕ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 290 3977 1010 4049; baseline -0.008 -1"><span class='ocrx_word' id='word_1_7' title='bbox 290 3977 1010 4049; x_wconf 80' lang='lat' dir='ltr'>IMPENSISED.WEBER1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1514 4892">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1514 4892">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1514 4892; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1514 4892; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
